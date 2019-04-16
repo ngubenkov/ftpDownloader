@@ -1,0 +1,10 @@
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.csprojAssemblyReference.cache
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.Properties.Resources.resources
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.csproj.GenerateResource.cache
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.csproj.CoreCompileInputs.cache
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.exe.config
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.exe
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\bin\Debug\FTPDownload.pdb
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.exe
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.pdb
+C:\Users\Frozm\Documents\Visual Studio 2017\Projects\FTPDownload\FTPDownload\obj\Debug\FTPDownload.FTP.resources
